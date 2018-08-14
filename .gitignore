@@ -2,3 +2,5 @@ test/
 tost/
 post/
 css/
+.sass-cache/
+node_modules/
